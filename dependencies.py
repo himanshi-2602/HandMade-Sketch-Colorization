@@ -1,9 +1,3 @@
-'''
-file: dependencies.py
-author: @Vincit0re
-objective: Set all the dependencies for the project. This file contains all the import statements for all the libraries that are required in the project.
-date: 2023-03-09
-'''
 
 import cv2 as cv
 import numpy as np
