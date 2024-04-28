@@ -1,9 +1,3 @@
-'''
-file: dependencies.py
-author: @Vincit0re
-objective: Set all the hyperparameters for the project. This file contains Hyperparameters class that have all the hyperparameters that are used in the project.
-date: 2023-03-13
-'''
 
 from dependencies import *
 
