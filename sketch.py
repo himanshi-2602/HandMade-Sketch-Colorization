@@ -1,9 +1,3 @@
-'''
-file: sketch.py
-author: @Vincit0re
-objective: Colorize a grayscale sketch image using opencv methods only. This file contains the class for colorizing the sketch image. We first do segmentation on the given image and then fill color on the basis of pre-defined color map.
-date: 2023-03-11
-'''
 
 from dependencies import *
 from utils import *
