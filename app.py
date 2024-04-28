@@ -1,9 +1,3 @@
-'''
-file: stream.py
-author: Vincit0re
-objective: Make a streamlit app to colorize a grayscale sketch image using a pre-trained model.
-date: 2023-03-14
-'''
 from dependencies import *
 from hyperparameters import Hyperparameters
 from utils import *
