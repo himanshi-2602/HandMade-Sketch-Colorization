@@ -1,9 +1,3 @@
-'''
-file: utils.py
-author: @Vincit0re
-objective: Utility functions for the project. This file contains all the functions and classes that are used in the project.
-date: 2023-03-11
-'''
 
 from dependencies import *
 
