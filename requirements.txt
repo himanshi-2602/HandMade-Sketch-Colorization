@@ -1,5 +1,5 @@
 numpy==1.24.2
-opencv-python-headless==4.5.4.60
+opencv-python-headless==4.5.5.64
 pandas==1.5.3
 scikit-image==0.20.0
 scikit-learn==1.2.1
