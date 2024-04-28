@@ -1,9 +1,3 @@
-'''
-file: main.py
-author: @Vincit0re
-objective: Colorize a grayscale sketch image using a pre-trained model. This is main file to run the code.
-date: 2023-03-12
-'''
 
 from dependencies import *
 from utils import *
